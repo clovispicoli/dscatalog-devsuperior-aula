@@ -12,10 +12,11 @@ target/
 .settings
 .springBeans
 .sts4-cache
+.gitignore
 
 ### IntelliJ IDEA ###
 .idea
-*.iws
+*.ias
 *.iml
 *.ipr
 
@@ -31,3 +32,4 @@ build/
 
 ### VS Code ###
 .vscode/
+.metadata
